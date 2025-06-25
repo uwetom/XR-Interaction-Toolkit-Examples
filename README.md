@@ -12,7 +12,7 @@ The intention of this project is to provide a means for getting started with the
 ### Requirements
 The current version of the XRI Examples is compatible with the following versions of the Unity Editor:
 
-* 2021.3 and later
+* 6000.0.45f and later
 
 ### Downloading the project
 
